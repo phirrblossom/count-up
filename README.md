@@ -32,6 +32,8 @@
   + 이미지 위아래로 왔다갔다 <br>위에 h3 다 지우고<br>
     h3 {<br>
     background-image: url(https://images.unsplash.com/photo-1550757750-4ce187a65014?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80) !important;<br>
+  -webkit-background-clip:text; <br>
+  color:transparent; <br>
   animation-duration: **10s**;<br>
   animation-iteration-count: infinite;<br>
   animation-direction: alternate;<br>
