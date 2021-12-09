@@ -9,7 +9,7 @@
 
 1. 받는다
 2. 수정한다
-  + **문구1**, **문구2**, const myDate = new Date('**May 4, 2021**');
+  + **문구1**, **문구2**, const myDate = new Date('**August 4, 2021**');
   + 색상변경<br>
   style 에서<br>
    h3{<br>
