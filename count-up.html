@@ -4,10 +4,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:900">
     <style>
-   h3{
-    color: #50bcdf;
-    background: transparent;
-    }
+h3 {
+background-image: url(https://images.unsplash.com/photo-1550757750-4ce187a65014?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80) !important;
+animation-duration: 10s;
+animation-iteration-count: infinite;
+animation-direction: alternate;
+animation-timing-function: linear;
+animation-name: fluid;
+background-size: 600%;
+-webkit-background-clip:text;
+color:transparent;
+}
+@keyframes bg { 0% { background-position-x: 0; } 100% { background-position-x: 10000px; } }
+@keyframes fluid { from { background-position: top; } to { background-position: bottom; } }
+
+
   
 #timer {
   text-align: center;
