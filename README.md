@@ -1,7 +1,7 @@
 # count-up
 
 진짜 별 것도 아니지만... 디데이 카운터 위젯 마개조<br>
-예시: https://phirrblossom.github.io/count-up/count-up.html <br>
+예시: https://phirrblossom.github.io/count-up/exam.html <br>
 소스: https://github.com/phirrblossom/count-up/blob/main/count-up.html <br>
 (디데이 스크립트 참조: https://blog.shorouk.dev/notion-widgets-gallery/notion-widget-count-down/ )
 
